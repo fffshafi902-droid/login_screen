@@ -24,6 +24,6 @@ A simple and elegant Login Screen implementation built with Flutter. This projec
 ### Installation & Setup
 
 1. **Clone the repository:**
-   git clone https://github.com/fffshafi902-droid/to_do_list.git
+   git clone https://github.com/fffshafi902-droid/login_screen.git
 
 
